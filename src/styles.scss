@@ -1,0 +1,21 @@
+$color-font: rgb(27, 176, 19);
+$font-default: Arial, Helvetica, sans-serif;
+
+.title {
+    color: $color-font;
+    font-family: $font-default;
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    
+    img {
+        width: 70%;
+        height: auto;
+    }
+    
+    
+
+}
